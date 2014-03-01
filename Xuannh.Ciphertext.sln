@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xuannh.Ciphertext", "Xuannh.Ciphertext\Xuannh.Ciphertext.csproj", "{FE979CBE-A833-46F8-88D2-DA00B291C1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xuannh.RSACore", "Xuannh.RSACore\Xuannh.RSACore.csproj", "{6CC67539-B59D-4F0B-B3F6-92ACEF0AD0E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE979CBE-A833-46F8-88D2-DA00B291C1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE979CBE-A833-46F8-88D2-DA00B291C1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE979CBE-A833-46F8-88D2-DA00B291C1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE979CBE-A833-46F8-88D2-DA00B291C1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC67539-B59D-4F0B-B3F6-92ACEF0AD0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC67539-B59D-4F0B-B3F6-92ACEF0AD0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC67539-B59D-4F0B-B3F6-92ACEF0AD0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC67539-B59D-4F0B-B3F6-92ACEF0AD0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

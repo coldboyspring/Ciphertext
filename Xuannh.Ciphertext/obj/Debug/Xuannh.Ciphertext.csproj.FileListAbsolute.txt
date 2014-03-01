@@ -1,0 +1,42 @@
+c:\users\sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe.config
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.pdb
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csprojResolveAssemblyReference.cache
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.Properties.Resources.resources
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csproj.GenerateResource.Cache
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.exe
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.pdb
+C:\Users\Sands\documents\visual studio 2012\Projects\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.MainForm.resources
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe.config
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.exe
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.pdb
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.pdb
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csprojResolveAssemblyReference.cache
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.MainForm.resources
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.Properties.Resources.resources
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csproj.GenerateResource.Cache
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\RSAEncryptionLib.dll
+E:\Dropbox\BT-ECommerce\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\RSAEncryptionLib.pdb
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe.config
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.exe
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.pdb
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csprojResolveAssemblyReference.cache
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.MainForm.resources
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.Properties.Resources.resources
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csproj.GenerateResource.Cache
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe.config
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csprojResolveAssemblyReference.cache
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.MainForm.resources
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.Properties.Resources.resources
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.csproj.GenerateResource.Cache
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.exe
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.pdb
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.RSACore.dll
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.RSACore.pdb
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.exe
+C:\Users\Sands\Google Drive\study\Xuannh.Ciphertext\Xuannh.Ciphertext\obj\Debug\Xuannh.Ciphertext.pdb
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.Ciphertext.pdb
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.RSACore.dll
+E:\Dropbox\Xuannh.Ciphertext\Xuannh.Ciphertext\bin\Debug\Xuannh.RSACore.pdb
